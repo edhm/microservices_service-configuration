@@ -1,5 +1,9 @@
-duenio.property=Duenio Dev
+duenio.property=Duenio Profile Dev
+# = jpa
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.generate-ddl=true
 
-spring.datasource.url=jdbc:mysql://localhost:3306/tiendaapi?useSSL=false&serverTimezone=UTC
-spring.datasource.username=root
-spring.datasource.password=Edhm...
+#spring.datasource.url=jdbc:mysql://localhost:3306/tiendaapi?useSSL=false&serverTimezone=UTC
+#spring.datasource.username=root
+#spring.datasource.password=Edhm...
