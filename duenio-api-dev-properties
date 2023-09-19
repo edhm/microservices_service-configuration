@@ -1,4 +1,4 @@
-duenio.property=Duenio Profile Dev
+duenio.property = Duenio Profile Dev
 # = jpa
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
